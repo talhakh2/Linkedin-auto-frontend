@@ -1,0 +1,5 @@
+REACT_APP_API_URL = http://localhost:5000
+BASE_URI = http://localhost:3000
+REACT_APP_GOOGLE_CLIENT_ID = 392261095808-lqim6gni98csqidhb048tb8gr2578tnq.apps.googleusercontent.com
+
+REACT_APP_OPENAI_KEY=
